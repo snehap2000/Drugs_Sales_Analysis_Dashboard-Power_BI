@@ -21,9 +21,13 @@ This project involves analyzing drug sales data using Power BI to uncover key in
 
 ## Features
 Interactive Dashboard: Visualize key metrics such as total sales, revenue growth, top-selling drugs, and regional performance.
+
 Data Filtering: Use slicers to filter data by date range, region, and product categories.
+
 Trend Analysis: View monthly/quarterly/yearly trends in drug sales and revenue.
+
 Sales Distribution: Analyze sales by different dimensions like customer segments, drug types, and geographic locations.
+
 Customizable Views: Change the dashboard view for specific use cases (e.g., focusing on a particular region or product).
 
 
@@ -131,13 +135,17 @@ TOOLTIP
 
 
 
+
 ## Conclusion
 The drug sales analysis conducted using Power BI provides valuable insights into sales performance, customer behavior, and regional trends. By focusing on high-performing products and regions, and addressing the areas of underperformance, businesses can strategically allocate resources to maximize profitability.
 
 Keys
 
 Optimizing Product Portfolio: Focus on the top-selling drugs and consider phasing out underperforming products.
+
 Regional Focus: Tailor strategies to target high-growth regions and explore opportunities for expansion in underperforming ones.
+
 Customer-Centric Approach: Enhance marketing efforts toward profitable customer segments while improving engagement with less profitable segments.
+
 Sales Growth: Monitor seasonal trends and ensure timely marketing or promotions to boost sales during peak months.
 
